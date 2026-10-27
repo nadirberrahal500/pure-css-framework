@@ -1,0 +1,1 @@
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 24px;border-radius:var(--radius-pill);border:none;font-weight:600;cursor:pointer;transition:all .3s}.btn-primary{background:linear-gradient(135deg,var(--primary),#fd79a8);color:#fff;box-shadow:var(--shadow-glow)}.btn-outline{background:transparent;border:1px solid rgba(255,255,255,.2);color:#fff}

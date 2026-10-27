@@ -1,0 +1,1 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}body{background:var(--bg-dark);color:var(--text-main);font-family:system-ui,sans-serif}
